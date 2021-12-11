@@ -5,8 +5,8 @@ Simple but easy few lines of code used to clear the python console within your c
 __Contains:__
 
 • Windows 
-• Mac
-• Linux
+\n• Mac
+\n• Linux
 
 
 __________________________________
